@@ -1,7 +1,3 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 사용자 중심의 UI/UX를 중시하여 접근성이 높은 웹 페이지를 만드는 것이 목표입니다.
+- 동료와의 효율적인 소통이 서비스에 긍정적인 효과를 가져온다고 생각합니다.
+- 다양한 피드백을 주고받는것을 좋아하며 이를 통해 서비스 생산성 향상에 기여하고 싶습니다.

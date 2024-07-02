@@ -5,6 +5,7 @@
 
   "information": {
     "name": "",
+    "imgSrc": "",
     "contact": [
       { "id": 0, "name": "Email", "href": "", "isEmail": true },
       { "id": 1, "name": "Github", "href": "" },
@@ -17,7 +18,9 @@
       "id": 0,
       "name": "",
       "position": "",
-      "period": ["", ""]
+      "period": ["", ""],
+      "description": "",
+      "title": ""
     }
   ],
 

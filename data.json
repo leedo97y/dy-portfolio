@@ -1,107 +1,128 @@
 {
   "resumeTitle": {
-    "title": "Hong Gil Dong"
+    "title": "Lee Do Yeon"
   },
 
   "information": {
-    "name": "홍길동",
+    "name": "이도연",
+    "imgSrc": "/images/profile.png",
     "contact": [
-      { "id": 0, "name": "Email", "href": "honggildong@gmail.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/honggildong" },
-      { "id": 2, "name": "Blog", "href": "https://velog.io/@honggildong" }
+      { "id": 0, "name": "Email", "href": "dlehdus1433@gmail.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/leedo97y" },
+      { "id": 2, "name": "Blog", "href": "https://velog.io/@dlehdus97" }
     ]
   },
 
   "workExperience": [
     {
       "id": 0,
-      "name": "커피프린스 1호점",
-      "position": "Front-end Engineer",
-      "period": ["2019. 01", "2019. 09"]
-    },
-    {
-      "id": 1,
-      "name": "커피프린스 2호점",
-      "position": "바리스타",
-      "period": ["2022. 01", "now"]
+      "name": "모바일앱개발\n협동조합",
+      "position": "Web Front-end Engineer",
+      "period": ["2023. 07", "2024. 02"],
+      "description": "서울시 뉴딜 일자리 사업으로 참여하였으며,\n신우개발의 장비 및 장비별 부품을 관리하는 사내 서비스 개발을 담당했습니다.\n기획,디자인 등에도 참여하여 사용자 중심의 서비스를 만들기 위해 노력했습니다.\n개발 이후 유지보수와 신규 추가 개발 등을 담당하였습니다.",
+      "title": "신우개발 장비 및 부품관리 서비스"
     }
   ],
 
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "name": "Retfilx",
+      "description": "React 스터디에서 진행한 넷플릭스 UI 클론 프로젝트입니다.",
+      "repoUrl": "https://github.com/leedo97y/Retflix",
       "isTeam": true,
-      "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "period": ["2022. 10", "2022. 11"],
+      "stack": ["React", "Emotion", "React-icon", "Vercel", "Jira"]
     },
     {
       "id": 1,
-      "name": "첫번째 개인 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "name": "TripMatch",
+      "description": "엘리스 SW 트랙 3기에서 진행한 여행 동행 매칭 서비스 프로젝트입니다.",
+      "repoUrl": "https://github.com/leedo97y/TripMatch",
+      "isTeam": true,
+      "period": ["2022. 12", "2023. 01"],
+      "stack": ["React", "TypeScript", "Styled-Components", "Sass", "Redux"]
+    },
+    {
+      "id": 2,
+      "name": "Tomuto",
+      "description": "melon 사이트를 참고하여 개발한 뮤직 플레이어 웹 프로젝트입니다.",
+      "webUrl": "https://tomato-music.fly.dev/",
+      "repoUrl": "https://github.com/leedo97y/melon-clone",
       "isTeam": false,
-      "period": ["2022. 10", "2022. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "period": ["2023. 03", "2023. 04"],
+      "stack": ["JavaScript", "Scss", "Webpack", "Pug", "Git", "Github", "Fly.io"]
+    },
+    {
+      "id": 3,
+      "name": "내식소\nPlanteven",
+      "description": "반려식물들의 정보를 알기 쉽게 보여주는 웹 서비스 프로젝트입니다.",
+      "webUrl": "https://planteven.vercel.app/",
+      "repoUrl": "https://github.com/leedo97y/planteven",
+      "isTeam": false,
+      "period": ["2024. 06"],
+      "stack": ["Next", "TypeScript", "Emotion", "Vercel"]
     }
   ],
 
   "activity": [
     {
       "id": 0,
-      "name": "첫번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "첫번째 활동에 대한 간략한 설명"
+      "name": "netfilx UI 클론코딩 스터디",
+      "period": ["2022.10", "2023.11"],
+      "description": "넷플릭스의 UI를 클론코딩하는 스터디를 진행했습니다."
     },
     {
       "id": 1,
-      "name": "두번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "두번째 활동에 대한 간략한 설명"
+      "name": "B-Side 303 포텐데이",
+      "period": ["2023.03", "2023.04"],
+      "description": "2주간 팀 빌딩 및 프로젝트 주제 선정 후 10일간 팀원들과 서비스를 만드는 프로젝트입니다. 백엔드 1명, 프론트엔드 1명, 디자이너 1명으로 팀을 구성하여 프로젝트를 진행했으며, 프론트엔드 파트로 참여했습니다."
     }
   ],
 
   "education": [
     {
       "id": 0,
-      "name": "첫번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "첫번째 교육에 대한 간략한 설명"
+      "name": "대진대학교",
+      "period": ["2016.02", "2021.08"],
+      "description": "법학과 전공, 경영학과 복수전공"
     },
     {
       "id": 1,
-      "name": "두번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "두번째 교육에 대한 간략한 설명"
+      "name": "엘리스 SW 3기",
+      "period": ["2022.09", "2022.12"],
+      "description": "프로그래밍 부트캠프"
     }
   ],
 
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "name": "GTQ 그래픽기술자격 2급",
+      "date": "2018. 07. 13",
+      "organizer": "한국생산성본부"
     },
     {
       "id": 1,
-      "name": "OPIC IH",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "name": "컴퓨터활용능력 2급",
+      "date": "2020. 12. 31",
+      "organizer": "대한상공회의소"
+    },
+    {
+      "id": 2,
+      "name": "워드프로세서",
+      "date": "2021. 02. 19",
+      "organizer": "대한상공회의소"
     }
   ],
 
   "award": [
     {
       "id": 0,
-      "name": "첫번째 수상",
-      "date": "2019. 07. 28",
-      "organizer": "수여기관",
-      "description": "첫번째 수상에 대한 간략한 설명"
+      "name": "엘리스 SW 3기 프로젝트 최우수상 수상",
+      "date": "2022. 12. 30",
+      "organizer": "(주)엘리스그룹",
+      "description": "기수 내에서 진행한 프로젝트 시상식에서 최우수상을 받았습니다."
     }
   ]
 }

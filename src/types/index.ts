@@ -9,6 +9,7 @@ export interface WorkExperienceProps {
   id: number;
   name: string;
   description?: string;
+  title: string;
   position: string;
   period: string[];
   markdown?: string;

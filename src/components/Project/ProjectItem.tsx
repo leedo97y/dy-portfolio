@@ -33,7 +33,11 @@ const ProjectItem = ({
             <div className="w-48">
               <h3>{name}</h3>
               <div className="flex flex-col">
-                <span>{`${period[0]} - ${period[1]}`}</span>
+                {period.length === 1 ? (
+                  <span>{`${period[0]}`}</span>
+                ) : (
+                  <span>{`${period[0]} - ${period[1]}`}</span>
+                )}
               </div>
             </div>
             <Links repoUrl={repoUrl} webUrl={webUrl} />

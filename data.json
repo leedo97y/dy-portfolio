@@ -27,15 +27,24 @@
   "project": [
     {
       "id": 0,
+      "name": "계란후라이",
+      "description": "농장주가 직접 농산물을 등록하여 플랫폼을 통해 소비자와 거래할 수 있는\n농산물 쇼핑몰을 만들었습니다.",
+      "repoUrl": "https://github.com/leedo97y/vegetable",
+      "isTeam": true,
+      "period": ["2022. 09", "2022. 10"],
+      "stack": ["HTML", "CSS", "JavaScript", "EJS", "Bulma", "Gitlab", "Trello", "Figma"]
+    },
+    {
+      "id": 1,
       "name": "Retfilx",
-      "description": "React 스터디에서 진행한 넷플릭스 UI 클론 프로젝트입니다.",
+      "description": "학습+실습을 위해 React 스터디에서 진행한 넷플릭스 UI 클론 프로젝트입니다.",
       "repoUrl": "https://github.com/leedo97y/Retflix",
       "isTeam": true,
       "period": ["2022. 10", "2022. 11"],
       "stack": ["React", "Emotion", "React-icon", "Vercel", "Jira"]
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "TripMatch",
       "description": "엘리스 SW 트랙 3기에서 진행한 여행 동행 매칭 서비스 프로젝트입니다.",
       "repoUrl": "https://github.com/leedo97y/TripMatch",
@@ -44,39 +53,39 @@
       "stack": ["React", "TypeScript", "Styled-Components", "Sass", "Redux"]
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Tomuto",
       "description": "melon 사이트를 참고하여 개발한 뮤직 플레이어 웹 프로젝트입니다.",
       "webUrl": "https://tomato-music.fly.dev/",
       "repoUrl": "https://github.com/leedo97y/melon-clone",
       "isTeam": false,
       "period": ["2023. 03", "2023. 04"],
-      "stack": ["JavaScript", "Scss", "Webpack", "Pug", "Git", "Github", "Fly.io"]
+      "stack": ["JavaScript", "Scss", "Webpack", "Pug", "Fly.io", "mongoDB", "node.js"]
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "내식소\nPlanteven",
-      "description": "반려식물들의 정보를 알기 쉽게 보여주는 웹 서비스 프로젝트입니다.",
+      "description": "여기저기 흩어져 있는 반려식물들의 정보를 알기 쉽게 보여주는 웹 서비스 입니다.",
       "webUrl": "https://planteven.vercel.app/",
       "repoUrl": "https://github.com/leedo97y/planteven",
       "isTeam": false,
       "period": ["2024. 06"],
-      "stack": ["Next", "TypeScript", "Emotion", "Vercel"]
+      "stack": ["Next.js", "TypeScript", "Emotion", "Vercel"]
     }
   ],
 
   "activity": [
     {
       "id": 0,
-      "name": "netfilx UI 클론코딩 스터디",
+      "name": "netfilx UI 클론코딩 스터디 뿌셔뿌셔",
       "period": ["2022.10", "2023.11"],
-      "description": "넷플릭스의 UI를 클론코딩하는 스터디를 진행했습니다."
+      "description": "학습을 위해서는 만들어 보는 것이 효과적이라고 생각하는 프론트엔드 5명이 모여 진행한 스터디 입니다.\nOTT 서비스인 넷플릭스의 UI를 클론코딩했습니다."
     },
     {
       "id": 1,
       "name": "B-Side 303 포텐데이",
       "period": ["2023.03", "2023.04"],
-      "description": "2주간 팀 빌딩 및 프로젝트 주제 선정 후 10일간 팀원들과 서비스를 만드는 프로젝트입니다.\n백엔드 1명, 프론트엔드 1명, 디자이너 1명으로 팀을 구성하여 프로젝트를 진행했으며, 프론트엔드 파트로 참여했습니다."
+      "description": "2주간 팀 빌딩 및 프로젝트 주제 선정 후 10일간 팀원들과 서비스를 만드는 프로젝트 입니다.\n백엔드 1명, 프론트엔드 1명, 디자이너 1명으로 팀을 구성하여 프로젝트를 진행했으며, 프론트엔드 파트로 참여했습니다."
     }
   ],
 

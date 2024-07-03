@@ -14,11 +14,11 @@ import * as gtag from "../lib/gtag";
 const DEFAULT_SEO = {
   title: "이도연 | Front-End 개발자",
   description: "안녕하세요, 프론트엔드 개발자 이도연입니다.",
-  canonical: "https://www.naver.com/",
+  canonical: "https://doyeonlee.vercel.app/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
-    url: "https://www.naver.com/",
+    url: "https://doyeonlee.vercel.app/",
     title: "이도연 | Front-End 개발자",
     site_name: "이도연 | Front-End 개발자",
     images: [

@@ -1,10 +1,10 @@
 import Image from "next/image";
+import { TypeAnimation } from "react-type-animation";
 
 import ContactItem from "../ContactItem";
 import Introduce from "./Introduce";
 
 import { DataProps } from "@/types";
-import { TypeAnimation } from "react-type-animation";
 
 const Information = ({ information }: Pick<DataProps, "information">) => {
   return (

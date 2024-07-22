@@ -56,7 +56,6 @@
       "id": 3,
       "name": "Tomuto",
       "description": "melon 사이트를 참고하여 개발한 뮤직 플레이어 웹 프로젝트입니다.",
-      "webUrl": "https://tomato-music.fly.dev/",
       "repoUrl": "https://github.com/leedo97y/melon-clone",
       "isTeam": false,
       "period": ["2023. 03", "2023. 04"],
@@ -71,6 +70,16 @@
       "isTeam": false,
       "period": ["2024. 06"],
       "stack": ["Next.js", "TypeScript", "Emotion", "Vercel"]
+    },
+    {
+      "id": 5,
+      "name": "Nhips",
+      "description": "뉴스를 간식처럼 간단하게 즐길 수 있도록 만들어주는 웹 서비스 입니다.",
+      "webUrl": "https://nhips.vercel.app/",
+      "repoUrl": "https://github.com/leedo97y/nhips",
+      "isTeam": false,
+      "period": ["2024. 07"],
+      "stack": ["Next.js", "TypeScript", "Tailwindcss", "zustand", "cheerio", "Vercel"]
     }
   ],
 
@@ -86,6 +95,12 @@
       "name": "B-Side 303 포텐데이",
       "period": ["2023.03", "2023.04"],
       "description": "2주간 팀 빌딩 및 프로젝트 주제 선정 후 10일간 팀원들과 서비스를 만드는 프로젝트 입니다.\n백엔드 1명, 프론트엔드 1명, 디자이너 1명으로 팀을 구성하여 프로젝트를 진행했으며, 프론트엔드 파트로 참여했습니다."
+    },
+    {
+      "id": 2,
+      "name": "프로젝트 캠프: Next.js 2기",
+      "period": ["2024.07", "진행중"],
+      "description": "Next.js를 배우고 7주간 팀원들과 기업 연계 프로젝트를 진행합니다."
     }
   ],
 

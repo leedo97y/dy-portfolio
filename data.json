@@ -80,6 +80,16 @@
       "isTeam": false,
       "period": ["2024. 07"],
       "stack": ["Next.js", "TypeScript", "Tailwindcss", "zustand", "cheerio", "Vercel"]
+    },
+    {
+      "id": 6,
+      "name": "FlawDetector",
+      "description": "응진씽크빅 프로젝트 캠프: Next.js 2기에서 진행한 보안시장 이슈 검사 웹 서비스 입니다.",
+      "webUrl": "https://flaw-detector-team-yes-eight.vercel.app/",
+      "repoUrl": "https://github.com/leedo97y/FlawDetector-team-yes",
+      "isTeam": true,
+      "period": ["2024. 07", "2024. 09"],
+      "stack": ["Next.js", "TypeScript", "Tailwindcss", "zustand", "llama3", "Firebase", "Vercel"]
     }
   ],
 
@@ -99,8 +109,8 @@
     {
       "id": 2,
       "name": "프로젝트 캠프: Next.js 2기",
-      "period": ["2024.07", "진행중"],
-      "description": "Next.js를 배우고 7주간 팀원들과 기업 연계 프로젝트를 진행합니다."
+      "period": ["2024.07", "2024.09"],
+      "description": "Next.js를 배우고 7주간 팀원들과 기업 연계 프로젝트를 진행합니다.\nFlawDetector라는 보안시장 이슈 검사 서비스 프로젝트를 진행했으며, 프론트엔드 개발자로 참여했습니다."
     }
   ],
 
@@ -143,9 +153,16 @@
   "award": [
     {
       "id": 0,
-      "name": "엘리스 SW 3기 프로젝트 최우수상 수상",
+      "name": "엘리스 SW 3기 프로젝트 2등 최우수상 수상",
       "date": "2022. 12. 30",
       "organizer": "(주)엘리스그룹",
+      "description": "기수 내에서 진행한 프로젝트 시상식에서 최우수상을 받았습니다."
+    },
+    {
+      "id": 1,
+      "name": "프로젝트 캠프: Next.js 2기 1등 최우수상 수상",
+      "date": "2024. 09. 20",
+      "organizer": "웅진씽크빅",
       "description": "기수 내에서 진행한 프로젝트 시상식에서 최우수상을 받았습니다."
     }
   ]

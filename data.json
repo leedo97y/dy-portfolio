@@ -88,7 +88,7 @@
       "webUrl": "https://flaw-detector-team-yes-eight.vercel.app/",
       "repoUrl": "https://github.com/leedo97y/FlawDetector-team-yes",
       "isTeam": true,
-      "period": ["2024. 07", "2024. 09"],
+      "period": ["2024. 08", "2024. 09"],
       "stack": ["Next.js", "TypeScript", "Tailwindcss", "zustand", "llama3", "Firebase", "Vercel"]
     }
   ],
@@ -110,7 +110,7 @@
       "id": 2,
       "name": "프로젝트 캠프: Next.js 2기",
       "period": ["2024.07", "2024.09"],
-      "description": "Next.js를 배우고 7주간 팀원들과 기업 연계 프로젝트를 진행합니다.\nFlawDetector라는 보안시장 이슈 검사 서비스 프로젝트를 진행했으며, 프론트엔드 개발자로 참여했습니다."
+      "description": "3주간 Next.js를 배우고 7주간 팀원들과 기업 연계 프로젝트를 진행했습니다.\nFlawDetector라는 보안시장 이슈 검사 서비스 프로젝트를 진행했으며, 프론트엔드 개발자로 참여했습니다."
     }
   ],
 

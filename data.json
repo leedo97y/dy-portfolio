@@ -89,7 +89,16 @@
       "repoUrl": "https://github.com/leedo97y/FlawDetector-team-yes",
       "isTeam": true,
       "period": ["2024. 08", "2024. 09"],
-      "stack": ["Next.js", "TypeScript", "Tailwindcss", "zustand", "llama3", "Firebase", "Vercel"]
+      "stack": [
+        "Next.js",
+        "TypeScript",
+        "Tailwindcss",
+        "zustand",
+        "llama3",
+        "gemini",
+        "Firebase",
+        "Vercel"
+      ]
     }
   ],
 

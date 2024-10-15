@@ -68,7 +68,7 @@
       "webUrl": "https://planteven.vercel.app/",
       "repoUrl": "https://github.com/leedo97y/planteven",
       "isTeam": false,
-      "period": ["2024. 06"],
+      "period": ["2024. 06", ""],
       "stack": ["Next.js", "TypeScript", "Emotion", "Vercel"]
     },
     {
@@ -78,7 +78,7 @@
       "webUrl": "https://nhips.vercel.app/",
       "repoUrl": "https://github.com/leedo97y/nhips",
       "isTeam": false,
-      "period": ["2024. 07"],
+      "period": ["2024. 07", ""],
       "stack": ["Next.js", "TypeScript", "Tailwindcss", "zustand", "cheerio", "Vercel"]
     },
     {
@@ -105,7 +105,7 @@
   "activity": [
     {
       "id": 0,
-      "name": "netfilx UI 클론코딩 스터디 뿌셔뿌셔",
+      "name": "Netfilx UI 클론코딩 스터디 뿌셔뿌셔",
       "period": ["2022.10", "2023.11"],
       "description": "학습을 위해서는 만들어 보는 것이 효과적이라고 생각하는 프론트엔드 5명이 모여 진행한 스터디 입니다.\nOTT 서비스인 넷플릭스의 UI를 클론코딩했습니다."
     },
@@ -165,14 +165,14 @@
       "name": "엘리스 SW 3기 프로젝트 2등 최우수상 수상",
       "date": "2022. 12. 30",
       "organizer": "(주)엘리스그룹",
-      "description": "기수 내에서 진행한 프로젝트 시상식에서 최우수상을 받았습니다."
+      "description": "기수 내에서 진행한 프로젝트 시상식에서 전체 2등 최우수상을 받았습니다."
     },
     {
       "id": 1,
       "name": "프로젝트 캠프: Next.js 2기 1등 최우수상 수상",
       "date": "2024. 09. 20",
       "organizer": "웅진씽크빅",
-      "description": "기수 내에서 진행한 프로젝트 시상식에서 최우수상을 받았습니다."
+      "description": "기수 내에서 진행한 프로젝트 시상식에서 전체 1등 최우수상을 받았습니다."
     }
   ]
 }

@@ -19,7 +19,7 @@
       "name": "모바일앱개발\n협동조합",
       "position": "Web Front-end Engineer",
       "period": ["2023. 07", "2024. 02"],
-      "description": "신우개발의 장비 및 장비별 부품을 관리하는 사내 서비스 개발을 담당했습니다.\n기획,디자인 등에도 참여하여 사용자 중심의 서비스를 만들기 위해 노력했습니다.\n개발 이후 유지보수와 신규 추가 개발 등을 담당하였습니다.",
+      "description": "신우개발의 장비 및 장비별 부품을 관리하는 사내 서비스 개발을 담당했습니다.\n기획에도 참여하여 사용자 중심의 서비스를 만들기 위해 노력했습니다.\n개발 이후 유지보수와 신규 추가 개발 등을 담당하였습니다.",
       "title": "신우개발 장비 및 부품관리 서비스"
     }
   ],
@@ -68,7 +68,7 @@
       "webUrl": "https://planteven.vercel.app/",
       "repoUrl": "https://github.com/leedo97y/planteven",
       "isTeam": false,
-      "period": ["2024. 06", ""],
+      "period": ["2024. 06", "2024. 09"],
       "stack": ["Next.js", "TypeScript", "Emotion", "d3.js", "git lfs", "Vercel"]
     },
     {
